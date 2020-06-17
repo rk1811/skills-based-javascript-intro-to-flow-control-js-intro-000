@@ -3,7 +3,7 @@ if (20 <age< 21) {return "You are a teenager!"
 }}
 
 function teenager(age) {
-  if (13 <=age<= 19) {return "You are a teenager!"
+  if (13 <age< 19) {return "You are a teenager!"
 } else {return "You are not a teenager"}
 }
 
