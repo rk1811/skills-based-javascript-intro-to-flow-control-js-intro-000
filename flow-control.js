@@ -1,5 +1,5 @@
 function basicTeenager(age) {
-if(13<age<19) {console.log("You are a teenager!")
+if(13<'age'<19) {console.log("You are a teenager!")
 }}
 
 function teenager(age) {
